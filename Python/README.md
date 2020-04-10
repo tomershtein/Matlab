@@ -1,1 +1,0 @@
-Some of the things I try to create with Python using Jupyter Notebook.
